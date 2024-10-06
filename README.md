@@ -1,4 +1,4 @@
-<h1>🎮 Strooper: Prueba de Stroop Modificada 🌈</h1>
+<h1>🎮 Strooper 🌈</h1>
 
 <h2>📝 Descripción</h2>
 <p>Strooper es un juego donde el usuario participa en una versión modificada de la prueba de Stroop, seleccionando qué nombres de colores son escritos con el color que les corresponde.</p>
